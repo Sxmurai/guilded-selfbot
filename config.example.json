@@ -1,0 +1,7 @@
+{
+  "prefix": "..",
+  "auth": {
+    "email": "youremail@domain.com",
+    "password": "your password"
+  }
+}
