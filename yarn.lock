@@ -14,10 +14,10 @@ follow-redirects@^1.10.0:
   resolved "https://registry.yarnpkg.com/follow-redirects/-/follow-redirects-1.13.0.tgz#b42e8d93a2a7eea5ed88633676d6597bc8e384db"
   integrity sha512-aq6gF1BEKje4a9i9+5jimNFIpq4Q1WiwBToeRK5NvZBd/TRsmW8BsJfOEGkr76TbOyPVD3OVDN910EcUNtRYEA==
 
-guilded.gg.js@^1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/guilded.gg.js/-/guilded.gg.js-1.0.6.tgz#e9ba3b58f1abcf1d56b60725147f887052b3817c"
-  integrity sha512-YpR4kEImdur5O3TLN3whvyESFd81Vj28Fgi0rynUHRSI2hx5X53nXUm1EUypfCb5W0DBnBbQSgoxj3BzPLhXpw==
+guilded.gg.js@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/guilded.gg.js/-/guilded.gg.js-1.0.8.tgz#212422619fcf1d73d0c7c8936ec3f96165b8efe3"
+  integrity sha512-Umno5gAsXpz4idr6yzfYGPNYk20ScTU9+pAKpdD0B4ipIad/+E5SdGIQIrme6pbb3+0QDj1QH87rTxrQVS5Pxw==
   dependencies:
     axios "^0.21.0"
     uuid "^8.3.1"
